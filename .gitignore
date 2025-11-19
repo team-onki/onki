@@ -1,5 +1,6 @@
 dataset/
 weights/
+figure/
 
 .env
 *.wav
